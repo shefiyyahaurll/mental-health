@@ -1,7 +1,7 @@
 # Submission 1: Prediksi Kesehatan Mental
 Nama: Shefiyyah Aurellia W<BR>
 
-Username dicoding:
+Username dicoding: shefiyyah-aurellia-w
 
 | | Deskripsi |
 | ----------- | ----------- |
